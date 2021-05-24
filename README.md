@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ichutkarsh
+- 👋 Hi, I’m Utkarsh Singh
 - 👀 I’m interested in 📱Application Develpment
-- 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on App development based Project
+- 🌱 I’m currently working with Python 
+- 💞️ I’m looking to collaborate on App development based Projects
 - 📫 Mail me on dragomon27@gmail.com
 
 <!---
